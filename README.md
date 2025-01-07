@@ -1,24 +1,20 @@
 # 💫 About Me:
-🚀 Passionate Software Engineer | Innovator | Problem Solver
+### 👨‍💻 Passionate Software Engineer | Innovator | Problem Solver  
 
-Welcome to my Github profile! Currently, I am making impactful contributions as a Software Engineer at Avalara. I am a dedicated and results-driven professional with a Bachelor's degree in Computer Science & Engineering from Kalinga Institute Of Industrial Technology (May 2023).
+Welcome to my GitHub! 🚀 Here, you'll find projects showcasing my journey as a developer, from building secure Identity and Access Management (IAM) systems at Avalara to optimizing API management at Informatica.  
 
-🛠️ Professional Journey At Avalara, I am part of the Identity and Access Management (IAM) team, developing a custom IAM system using cutting-edge technologies like Microservices, MongoDB, AWS, OAuth, OpenID Connect, and the Avalara Identity Provider. My work focuses on building secure, scalable solutions for account-level object security and user access control.
+💡 **What I Work On:**  
+- Backend development with **C#, ASP.NET, Java, and Spring Boot**  
+- Database optimization using **MongoDB, MySQL, and Firebase**  
+- Microservices architecture and cloud technologies like **AWS and GCP**  
+- Tackling real-world challenges in security, scalability, and performance  
 
-Prior to Avalara, I worked at Informatica as a Backend Developer for API Manager, a cloud-based service. I optimized log retrieval processes using Kafka, reducing analytics latency by 40% and saving $60K annually. Additionally, I improved code reliability by enhancing code coverage by 80% through JUnit test cases and resolved high-priority bugs critical for product growth.
+📈 **Highlights:**  
+- Created tools that reduced API latency by 40%  
+- Solved 700+ problems on Leetcode  
+- Developed innovative features in hackathons and research projects  
 
-🌐 Previous Experience My journey began as a Prism Student Trainee at Samsung R&D, where I developed an engine to separate speech and non-speech parts from audio, which led to a published paper at the 2022 IEEE Delhi Section Conference.
-
-🚀 Projects & Hackathons I love taking on challenges! I've showcased my skills in various projects, including addressing security concerns in APIs at HACK{AI}THON, developing a WebSocket Chat Application, and creating a Chrome extension for real-time contest updates.
-
-🛠️ Skills Snapshot My technical toolkit includes proficiency in Java, C++, Python, ASP.NET, HTML/CSS3, JavaScript, and more. I am well-versed in databases like MongoDB, Firebase, and MySQL, with hands-on experience in frameworks such as Spring Boot, Apache Kafka, and Hibernate. I also utilize AWS, Azure, and GCP for cloud-based solutions.
-
-🏆 Achievements I thrive on challenges and have solved over 700 problems on Leetcode, consistently ranking in the top percentiles worldwide. I've excelled in coding competitions, including Google Hash Code 2022 and Meta HackerCup 2023, and secured the top position in the CodeStudio Weekend Contest 21 organized by Coding Ninjas.
-
-🌐 Beyond Coding Beyond coding, I've embraced opportunities like the Summer Of Bitcoin code challenge and was selected as a Research Intern at the University of British Columbia through Mitacs.
-
-Let’s connect and explore how my passion for innovation and problem-solving can contribute to your team’s success! 🚀👨‍💻
-
+🌟 Let’s collaborate on projects that make an impact! Explore my repositories and feel free to reach out. 😊  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaswat_2203) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saswata-ghosh-05bb83170) 
